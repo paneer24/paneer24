@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paneer Selvam</h1>
 <h3 align="center">I am passionate on AI and Data Science</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paneer24&label=Profile%20views&color=0e75b6&style=flat" alt="paneer24" /> </p>
 
 - 🌱 I’m currently learning **ML,NLP**
 - I am Interested in Data Science and AI and looking to collaborate with people for solving real-world problems
